@@ -84,7 +84,7 @@ class Widgets extends React.Component {
   render() {
     return (
       <>
-        <CardsHeader name="Widgets" parentName="Widgets" />
+        <CardsHeader name="Dashboard" parentName="Dashboard" />
         <Container className="mt--6" fluid>
           <Row>
             <Col lg="4">
